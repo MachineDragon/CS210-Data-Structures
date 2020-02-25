@@ -1,0 +1,24 @@
+1. Hours to complete the project: 10 hours
+
+2. Provide a short description of how you approached each problem, issues you 
+   encountered, and how you resolved those issues.
+
+   Problem 1 (WordNet Data Type): Had an error with, put the get function outside the if loop and within the for loop. Had trouble using the sysnet.readline() and split function, put them on the same line.
+
+   Problem 2 (ShortestCommonAncestor Data Type): Put wrong data for triad, needed to learn how to use SeperateChainingHash, used the slides
+
+   Problem 3 (Outcast Data Type): Got an error for object, created a new object WORDNET wordnet to fix the error and compile correctly.
+
+3. Did you receive help from anyone? List their names, status (classmate, 
+   CS210 grad, TA, other), and the nature of help received.
+
+   Name               Status       Help Received
+   ----               ------       -------------
+
+   SI                TA               yes
+
+4. List any other comments here. Feel free to provide any feedback on how
+   much you learned from doing the assignment, and whether you enjoyed
+   doing it.
+
+   ...

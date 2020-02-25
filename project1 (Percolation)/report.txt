@@ -1,0 +1,22 @@
+1. Hours to complete the project: 15 hours
+
+2. Provide a short description of how you approached each problem, issues you 
+   encountered, and how you resolved those issues.
+
+   Problem 1 (Model a Percolation System): Researched the princeton methods for creating an N by N system. initialized several int functions to create the grid of cells/boxes. used the isopen function to check if the liquids can percolate to the bottom.
+
+   Problem 2 (Estimate Percolation Threshold): Had to find the method for calculating standard dev, low and high confidence etc added i to the total sum using a for loop and numbers for calculations from given chart
+
+3. Did you receive help from anyone? List their names, status (classmate, 
+   CS210 grad, TA, other), and the nature of help received.
+
+   Name               Status       Help Received
+   ----               ------       -------------
+
+   ...                ...          ...
+
+4. List any other comments here. Feel free to provide any feedback on how
+   much you learned from doing the assignment, and whether you enjoyed
+   doing it.
+
+   ...

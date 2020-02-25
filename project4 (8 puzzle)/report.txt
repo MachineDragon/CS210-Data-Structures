@@ -1,0 +1,22 @@
+1. Hours to complete the project: 20 hours
+
+2. Provide a short description of how you approached each problem, issues you 
+   encountered, and how you resolved those issues.
+
+   Problem 1 (Board Data Type): TA helped, ran into a problem utilizing enqueue and used that to clone the board
+
+   Problem 2 (Solver Data Type): fixed all errors, had capitalization mistakes and looked at the errors through the terminal, still got error message and couldnt find the mistake.
+
+3. Did you receive help from anyone? List their names, status (classmate, 
+   CS210 grad, TA, other), and the nature of help received.
+
+   Name               Status       Help Received
+   ----               ------       -------------
+
+   TA                TA              Yes
+
+4. List any other comments here. Feel free to provide any feedback on how
+   much you learned from doing the assignment, and whether you enjoyed
+   doing it.
+
+   ...

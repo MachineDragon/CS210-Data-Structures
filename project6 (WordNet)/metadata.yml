@@ -1,0 +1,12 @@
+---
+:id: 18027774
+:submitters:
+- :name: Michael Hajjar
+  :email: michael.hajjar001@umb.edu
+:created_at: !ruby/object:ActiveSupport::TimeWithZone
+  utc: 2019-05-09 17:05:54.722189000 Z
+  zone: !ruby/object:ActiveSupport::TimeZone
+    name: America/Los_Angeles
+  time: 2019-05-09 10:05:54.722189000 Z
+:status: processed
+:score: 100.0
